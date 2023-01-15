@@ -8,7 +8,9 @@ The project objectives are:
 6. Learn More about Mixins and permissions classes.
 
 The project Structure:
+
 [It will be updated once any major changes to the structure changes]
+
 The projects wil the following models:
 1. Employees
 2. Customers
